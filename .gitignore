@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+.DS_Store
+*.iml
+out
+gen
+.idea/workspace.xml
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/
