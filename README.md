@@ -52,6 +52,12 @@
 
 [Lepton](https://github.com/hackjutsu/Lepton): 一款github gist同步工具，代码文件都可以同步，十分好用！
 
-[code Notes](https://github.com/lauthieb/code-notes): 一款笔记工具，开源，支持多种文件类型，支持github gist。
+[code Notes](https://github.com/lauthieb/code-notes): 一款笔记工具，开源，支持多种文件类型，支持github gist
 
 [genymotion](https://www.genymotion.com/download/): 一款安卓模拟器工具，非免费，但是官网有下载地址未屏蔽
+
+[duet](https://www.duetdisplay.com/): 一款可以连接Mac与iPad的工具，通过数据线可以实现将iPad作为外接屏幕
+
+[pxCook](https://www.fancynode.com.cn/pxcook): 一款类似马克曼一样的UI稿查看工具，可以查看UI中的各类元素的样式，可以直接显示html代码
+
+[ENFI下载器](http://enfi.cloud/#/index): 告别百度网盘，可以直接使用百度网盘的分享连接进行下载，速度还不错，里面的下载流量需要购买，但是很便宜，完全可以接受
