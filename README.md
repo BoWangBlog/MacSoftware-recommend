@@ -1,9 +1,3 @@
-# Software Crack
-
-程序使用教程总结
-
-**由于某些原因，该仓库不再推出软件破解教程，只进行软件使用推荐。**
-
 ### Mac软件工具推荐(都是我在用的)
 
 [itTools](https://github.com/TsaiKoga/it-tools): 工具目前包括“正则表达式”、“时间戳转化”、“颜色盒子”、“Json转化”、“Base64转化“
