@@ -61,3 +61,9 @@
 [pxCook](https://www.fancynode.com.cn/pxcook): 一款类似马克曼一样的UI稿查看工具，可以查看UI中的各类元素的样式，可以直接显示html代码
 
 [ENFI下载器](http://enfi.cloud/#/index): 告别百度网盘，可以直接使用百度网盘的分享连接进行下载，速度还不错，里面的下载流量需要购买，但是很便宜，完全可以接受
+
+[迅雷](https://pan.baidu.com/s/1c6IChusZ5FJUJ2z0CIXWbQ#1999): 提取码: 1999 免登录版，可直接使用会员速度
+
+[TinyCal](): 一款状态栏日历显示软件，精致小巧
+
+[IINA](https://iina.io/): 一个精简的视频播放器，还不错
