@@ -16,7 +16,7 @@
 
 [SnippetsLab](https://www.renfei.org/snippets-lab/): 代码片段管理器，但是我把它当笔记工具用
 
-[Regextor](): App store下载，正则表达式测试工具
+[Regextor](https://pan.baidu.com/share/init?surl=jHSWRRo#xj3j): 提取码：xj3j，App store下载，正则表达式测试工具
 
 [Helm](https://github.com/helm/helm/releases): Host管理工具 
 
@@ -26,11 +26,11 @@
 
 [PopClip](https://pilotmoon.com/popclip/): 在Mac上使用鼠标选择文本时，会出现PopClip。 即时复制和粘贴，并访问搜索，拼写，字典和超过100个以上的操作。
 
-[NewFileMenu](): App store下载，右键新建文件工具
+[NewFileMenu](https://xclient.info/s/new-file-menu.html?a=dl&v=1.3.1&k=0&t=95ae51fb2540fe451971aed5fd7409dd305c600f): App store下载，右键新建文件工具
 
-[Image2Icon](): App store下载，可将图片转换为ICON
+[Image2Icon](https://xclient.info/s/image2icon.html?a=dl&v=2.6.2&k=0&t=95ae51fb2540fe451971aed5fd7409dd305c600f): App store下载，可将图片转换为ICON
 
-[Blotter](): App store下载，**(推荐)** 提醒事项的桌面版显示，直接在Mac自带的提醒事项里面添加内容，这款软件就直接将内容显示在桌面
+[Blotter](https://pan.baidu.com/share/init?surl=mifOoq8#hwpm): 提取码hwpm，App store下载，**(推荐)** 提醒事项的桌面版显示，直接在Mac自带的提醒事项里面添加内容，这款软件就直接将内容显示在桌面
 
 [Manico](https://manico.im/): 程序快捷切换，推荐，很方便
 
@@ -64,6 +64,6 @@
 
 [迅雷](https://pan.baidu.com/s/1c6IChusZ5FJUJ2z0CIXWbQ#1999): 提取码: 1999 免登录版，可直接使用会员速度
 
-[TinyCal](): 一款状态栏日历显示软件，精致小巧
+[TinyCal](https://xclient.info/s/tinycal.html?a=dl&v=1.9.0&k=0&t=95ae51fb2540fe451971aed5fd7409dd305c600f): 一款状态栏日历显示软件，精致小巧
 
 [IINA](https://iina.io/): 一个精简的视频播放器，还不错
