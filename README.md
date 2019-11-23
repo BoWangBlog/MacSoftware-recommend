@@ -1,5 +1,9 @@
 ### Mac软件工具推荐(都是我在用的)
 
+[Mac downloader](https://share.newlearner.site/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/Mac%20Downloader.app.zip): 点击直接下载，解压密码：newlearner   支持直接下载mac系统镜像，包括10.13、10.14、10.15这三个大版本；
+
+[uTools](https://u.tools/): 比ItTools更好用的一款搜索软件，类似于聚焦搜索，但是可以安装很多插件使用；
+
 [itTools](https://github.com/TsaiKoga/it-tools): 工具目前包括“正则表达式”、“时间戳转化”、“颜色盒子”、“Json转化”、“Base64转化“
 
 [shellCraft](http://www.shellcraftapp.com/): 服务器ssh工具
