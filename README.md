@@ -1,5 +1,11 @@
 ### Mac软件工具推荐(都是我在用的)
 
+[OBS](https://obsproject.com/): Mac端与windows端的一个直播软件，比直播姬要好用，操作也挺简单的
+
+[transmit](https://www.panic.com/transmit/#download): 一个ftp客户端，支持链接多种平台，如Amazon S3， WebDev，dropBox等
+
+[gistPal](https://www.beyondcow.com/gistpal/)：github gist管理小工具，比Lepton更加轻量级，操作也更加简单
+
 [Mac downloader](https://share.newlearner.site/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/Mac%20Downloader.app.zip): 点击直接下载，解压密码：newlearner   支持直接下载mac系统镜像，包括10.13、10.14、10.15这三个大版本；
 
 [uTools](https://u.tools/): 比ItTools更好用的一款搜索软件，类似于聚焦搜索，但是可以安装很多插件使用；
