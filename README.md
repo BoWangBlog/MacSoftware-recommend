@@ -1,5 +1,13 @@
 ### Mac软件工具推荐(都是我在用的)
 
+[云存储管理客户端](https://github.com/willnewii/qiniuClient):云存储管理客户端。支持七牛云、腾讯云、青云、阿里云、又拍云、亚马逊S3，仿文件夹管理、图片预览、拖拽上传、文件夹上传、同步、批量导出URL等功能;
+
+[Bob](https://github.com/ripperhe/Bob): Bob 是一款 Mac 端翻译软件，翻译方式支持划词翻译和截图翻译，翻译引擎支持有道翻译、百度翻译和谷歌翻译~；
+
+[Zerotier One](https://www.zerotier.com/download/): 内网穿透工具，支持各种平台版本：Nas、Mac、Android等，其实就是利用VPN方式将设备加到同个局域网，国外软件所以速度有延迟；
+
+[Televzr](https://desktop.televzr.com/): 一款下载工具，支持下载youtube等网站解析视频下载，直接增加url就可以，免费只能下一次，需要pro版，有点贵；
+
 [OBS](https://obsproject.com/): Mac端与windows端的一个直播软件，比直播姬要好用，操作也挺简单的
 
 [transmit](https://www.panic.com/transmit/#download): 一个ftp客户端，支持链接多种平台，如Amazon S3， WebDev，dropBox等
