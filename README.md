@@ -1,5 +1,7 @@
 ### Mac软件工具推荐(都是我在用的)
 
+[SSR节点推荐](https://zaizaicloud.pw/auth/register?code=iKVz): 注册即可使用免费节点，但是付费的也不贵，25块钱可以买90天，速度快的飞起！
+
 [云存储管理客户端](https://github.com/willnewii/qiniuClient):云存储管理客户端。支持七牛云、腾讯云、青云、阿里云、又拍云、亚马逊S3，仿文件夹管理、图片预览、拖拽上传、文件夹上传、同步、批量导出URL等功能;
 
 [Bob](https://github.com/ripperhe/Bob): Bob 是一款 Mac 端翻译软件，翻译方式支持划词翻译和截图翻译，翻译引擎支持有道翻译、百度翻译和谷歌翻译~；
