@@ -30,9 +30,9 @@
 
 [Regextor](https://pan.baidu.com/share/init?surl=jHSWRRo#xj3j): 提取码：xj3j，App store下载，正则表达式测试工具
 
-[Helm](https://github.com/helm/helm/releases): Host管理工具 
+[Helm](https://github.com/helm/helm/releases): Host管理工具
 
-[GitKraken](https://www.gitkraken.com/): git代码管理客户端 
+[GitKraken](https://www.gitkraken.com/): git代码管理客户端
 
 [YoMail](): App store下载，一款比较好用的邮件客户端
 
@@ -74,7 +74,7 @@
 
 [ENFI下载器](http://enfi.cloud/#/index): 告别百度网盘，可以直接使用百度网盘的分享连接进行下载，速度还不错，里面的下载流量需要购买，但是很便宜，完全可以接受
 
-[迅雷](https://pan.baidu.com/s/1c6IChusZ5FJUJ2z0CIXWbQ#1999): 提取码: 1999 免登录版，可直接使用会员速度
+~~[迅雷](https://pan.baidu.com/s/1c6IChusZ5FJUJ2z0CIXWbQ#1999): 提取码: 1999 免登录版，可直接使用会员速度~~ 已失效
 
 [TinyCal](https://xclient.info/s/tinycal.html?a=dl&v=1.9.0&k=0&t=95ae51fb2540fe451971aed5fd7409dd305c600f): 一款状态栏日历显示软件，精致小巧
 
