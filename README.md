@@ -2,6 +2,8 @@
 
 [SSR节点推荐](https://zaizaicloud.pw/auth/register?code=iKVz): 注册即可使用免费节点，但是付费的也不贵，25块钱可以买90天，速度快的飞起！
 
+[One Switch](https://545c.com/file/17525453-433402336): 一键切换管理，比如一键切换黑暗模式，一键隐藏桌面文件等等，功能还不是很多，但是用着还挺方便；
+
 [云存储管理客户端](https://github.com/willnewii/qiniuClient):云存储管理客户端。支持七牛云、腾讯云、青云、阿里云、又拍云、亚马逊S3，仿文件夹管理、图片预览、拖拽上传、文件夹上传、同步、批量导出URL等功能;
 
 [Bob](https://github.com/ripperhe/Bob): Bob 是一款 Mac 端翻译软件，翻译方式支持划词翻译和截图翻译，翻译引擎支持有道翻译、百度翻译和谷歌翻译~；
@@ -81,3 +83,10 @@
 [TinyCal](https://xclient.info/s/tinycal.html?a=dl&v=1.9.0&k=0&t=95ae51fb2540fe451971aed5fd7409dd305c600f): 一款状态栏日历显示软件，精致小巧
 
 [IINA](https://iina.io/): 一个精简的视频播放器，还不错
+
+### jetBrains插件推荐(都是我在用的)
+
+- [background-image-plus](https://plugins.jetbrains.com/plugin/8502-background-image-plus): 可以自定义IDE背景图片；
+- [codeglance](https://plugins.jetbrains.com/plugin/7275-codeglance)：代码小地图，与sublime text中的那个一样，在右侧显示文件内容小地图；
+- [databaseToolsAndSql](https://plugins.jetbrains.com/plugin/10925-database-tools-and-sql)：在ide中管理数据库，可连接不同的数据库，支持sql查询；
+- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)：代码括号高亮；
