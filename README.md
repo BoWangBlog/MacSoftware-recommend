@@ -1,10 +1,66 @@
-### Mac软件工具推荐(都是我在用的)
+### Chrome插件推荐(都是我在用的)
 
-[SSR节点推荐](https://zaizaicloud.pw/auth/register?code=iKVz): 注册即可使用免费节点，但是付费的也不贵，25块钱可以买90天，速度快的飞起！
+[掘金](): 官网获取，掘金，优秀社区！
+
+[AdGuard 广告拦截器](): 应用商店获取，广告拦截；
+
+[Aria2 for Chrome](): 应用商店获取，可以使用aria下载；
+
+[bilibili哔哩哔哩下载助手](): 应用商店获取，bilibili 哔哩哔哩 B站 下载助手 帮你下载版权受限（能看不能缓存）的 番剧 视频；
+
+[ColorZilla](): 应用商店获取，取色器
+
+[Convertio](): 应用商店获取，在线将文件从一种格式转换为另一种格式. 支持超过 2500 种不同的转换；
+
+[CSSViewer](): 应用商店获取，可查看页面中具体DOM元素的css样式详情；
+
+[EditThisCookie](): 应用商店获取，EditThisCookie是一个cookie管理器。您可以添加，删除，编辑，搜索，锁定和屏蔽cookies；
+
+[Enable Copy](): 应用商店获取，破解有些网站不能复制；
+
+[FeHelper(前端助手)](): 应用商店获取，JSON自动格式化、手动格式化，支持排序、解码、下载等，更多功能可在配置页按需安装；
+
+[Grid Ruler](): 应用商店获取，在页面可以显示标尺，比如查看页面中同一行或同一列的元素是否对齐；
+
+[iGG谷歌访问助手](): 应用商店获取，嗯。。。你懂的；
+
+[Imagus](): 应用商店获取，可以在查看图片时鼠标悬浮，自动放大；
+
+[Isometric Contributions](): 应用商店获取，github中查看提交记录，会显示柱状图；
+
+[JSON Formatter](): 应用商店获取，转换json；
+
+[MONKNOW 新标签页 - 个性化面板](): 应用商店获取，这是您梦寐以求的新标签页。支持网站网址URL分组管理，数据实时云同步，黑暗深色夜间主题模式，推荐；
+
+[Octotree](): 应用商店获取，github左侧显示项目目录；
+
+[OneTab](): 应用商店获取，节省高达95％的内存，并减轻标签页混乱现象；
+
+[Tampermonkey](): 应用商店获取，游猴脚本，发现更多好玩的东西；
+
+[书签侧边栏](): 应用商店获取，可在页面显示更友好的书签，左侧，右侧，悬浮等，可以自定义配置；
+
+[云盘万能钥匙](): 应用商店获取，您的云盘智能助手；
+
+[右键搜](): 应用商店获取，扩展右键菜单，超过300种功能，方便的选择、组合或自定义页面、划词、图片菜单，并有生成、解析二维码和短网址功能。设置可使用云存储；
+
+[ImageAssistant](): 应用商店获取，一款用于嗅探、分析网页图片并提供批量下载等功能及在线收藏、检索、分享服务的浏览器扩展程序；
+
+[在线PDF编辑器](https://pdf2go.com): 官方获取，编辑和转换PDF文件；
+
+[Extension Manager](): 应用商店获取，一键管理所有扩展，快速开启/禁用、批量闪电管理，智能排序，右键卸载、锁定、选项配置，角标提醒，大小布局随心配。快捷、简单、安全；
+
+[爱搜资源助手](): 应用商店获取，访问资源自动获取密码，比如某度网盘，如果之前有人打开过这个资源，会自动填充密码；
+
+[集装箱](): 应用商店获取，一个插件，提供一揽子服务；
+
+[魂签到](): 应用商店获取，自动签到，支持b站呀，什么值得买呀等；
+
+### Mac软件工具推荐(都是我在用的)
 
 [One Switch](https://545c.com/file/17525453-433402336): 一键切换管理，比如一键切换黑暗模式，一键隐藏桌面文件等等，功能还不是很多，但是用着还挺方便；
 
-[云存储管理客户端](https://github.com/willnewii/qiniuClient):云存储管理客户端。支持七牛云、腾讯云、青云、阿里云、又拍云、亚马逊S3，仿文件夹管理、图片预览、拖拽上传、文件夹上传、同步、批量导出URL等功能;
+[云存储管理客户端](https://github.com/willnewii/qiniuClient): 云存储管理客户端。支持七牛云、腾讯云、青云、阿里云、又拍云、亚马逊S3，仿文件夹管理、图片预览、拖拽上传、文件夹上传、同步、批量导出URL等功能;
 
 [Bob](https://github.com/ripperhe/Bob): Bob 是一款 Mac 端翻译软件，翻译方式支持划词翻译和截图翻译，翻译引擎支持有道翻译、百度翻译和谷歌翻译~；
 
@@ -16,7 +72,7 @@
 
 [transmit](https://www.panic.com/transmit/#download): 一个ftp客户端，支持链接多种平台，如Amazon S3， WebDev，dropBox等
 
-[gistPal](https://www.beyondcow.com/gistpal/)：github gist管理小工具，比Lepton更加轻量级，操作也更加简单
+[gistPal](https://www.beyondcow.com/gistpal/): github gist管理小工具，比Lepton更加轻量级，操作也更加简单
 
 [Mac downloader](https://share.newlearner.site/%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%BA%90/Mac%20Downloader.app.zip): 点击直接下载，解压密码：newlearner   支持直接下载mac系统镜像，包括10.13、10.14、10.15这三个大版本；
 
@@ -78,15 +134,16 @@
 
 [ENFI下载器](http://enfi.cloud/#/index): 告别百度网盘，可以直接使用百度网盘的分享连接进行下载，速度还不错，里面的下载流量需要购买，但是很便宜，完全可以接受
 
-~~[迅雷](https://pan.baidu.com/s/1c6IChusZ5FJUJ2z0CIXWbQ#1999): 提取码: 1999 免登录版，可直接使用会员速度~~ 已失效
-
 [TinyCal](https://xclient.info/s/tinycal.html?a=dl&v=1.9.0&k=0&t=95ae51fb2540fe451971aed5fd7409dd305c600f): 一款状态栏日历显示软件，精致小巧
 
 [IINA](https://iina.io/): 一个精简的视频播放器，还不错
 
 ### jetBrains插件推荐(都是我在用的)
 
-- [background-image-plus](https://plugins.jetbrains.com/plugin/8502-background-image-plus): 可以自定义IDE背景图片；
-- [codeglance](https://plugins.jetbrains.com/plugin/7275-codeglance)：代码小地图，与sublime text中的那个一样，在右侧显示文件内容小地图；
-- [databaseToolsAndSql](https://plugins.jetbrains.com/plugin/10925-database-tools-and-sql)：在ide中管理数据库，可连接不同的数据库，支持sql查询；
-- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)：代码括号高亮；
+[background-image-plus](https://plugins.jetbrains.com/plugin/8502-background-image-plus): 可以自定义IDE背景图片；
+
+[codeglance](https://plugins.jetbrains.com/plugin/7275-codeglance): 代码小地图，与sublime text中的那个一样，在右侧显示文件内容小地图；
+
+[databaseToolsAndSql](https://plugins.jetbrains.com/plugin/10925-database-tools-and-sql): 在ide中管理数据库，可连接不同的数据库，支持sql查询；
+
+[Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets): 代码括号高亮；
