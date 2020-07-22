@@ -1,7 +1,5 @@
 ### Chrome插件推荐(都是我在用的)
 
-[掘金](): 官网获取，掘金，优秀社区！
-
 [AdGuard 广告拦截器](): 应用商店获取，广告拦截；
 
 [Aria2 for Chrome](): 应用商店获取，可以使用aria下载；
@@ -57,6 +55,16 @@
 [魂签到](): 应用商店获取，自动签到，支持b站呀，什么值得买呀等；
 
 ### Mac软件工具推荐(都是我在用的)
+
+[iShot](): App Store获取，强大的截图工具；
+
+[超级右键](): App Store获取，右键菜单自定义，强烈推荐；
+
+[Better MenuBar](): App Store获取，电池信息管理；
+
+[KeeWeb](https://keeweb.info/): 密码管理工具；
+
+[gitNote](https://www.gitnoteapp.com/): 一款基于git的笔记本工具； 
 
 [One Switch](https://545c.com/file/17525453-433402336): 一键切换管理，比如一键切换黑暗模式，一键隐藏桌面文件等等，功能还不是很多，但是用着还挺方便；
 
