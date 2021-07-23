@@ -216,6 +216,8 @@
 
 ### jetBrains插件推荐(都是我在用的)
 
+**以下插件都可直接在plugins-marketplace中进行下载**
+
 [background-image-plus](https://plugins.jetbrains.com/plugin/8502-background-image-plus): 可以自定义IDE背景图片；
 
 [codeglance](https://plugins.jetbrains.com/plugin/7275-codeglance): 代码小地图，与sublime text中的那个一样，在右侧显示文件内容小地图；
@@ -223,3 +225,14 @@
 [databaseToolsAndSql](https://plugins.jetbrains.com/plugin/10925-database-tools-and-sql): 在ide中管理数据库，可连接不同的数据库，支持sql查询；
 
 [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets): 代码括号高亮；
+
+[Codota](): AI代码生成，自动联想，支持javaScript和java；
+
+[Atom Material Icons](): 文件图标、系统图标会更好看；
+
+[Translation](): 翻译插件，右键的时候可以直接翻译；
+
+[GitToolBox](): git提交记录插件，鼠标在某行代码的时候可以看见是谁在什么时候提交的，提交信息是什么；
+
+[.ignore](): git文件忽略，可以选择某文件，右键添加到.gitignore，同时支持创建的时候选择多种模式的ignore文件；
+
