@@ -236,3 +236,5 @@
 
 [.ignore](): git文件忽略，可以选择某文件，右键添加到.gitignore，同时支持创建的时候选择多种模式的ignore文件；
 
+[Paste images into MarkDown](): 在编写markdown时，如果需要添加图片，则复制以后可直接使用ctrl+v或command+v进行粘贴，会弹出一个弹框设置图片名称、路径，十分方便
+
