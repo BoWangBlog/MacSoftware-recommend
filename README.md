@@ -238,3 +238,16 @@
 
 [Paste images into MarkDown](): 在编写markdown时，如果需要添加图片，则复制以后可直接使用ctrl+v或command+v进行粘贴，会弹出一个弹框设置图片名称、路径，十分方便
 
+[CamelCase](): 下划线驼峰转换插件
+
+[Docker](): Docker管理插件
+
+[Power Mode II](): 打字特效
+
+[activate-power-mode](): 打字特效
+
+[stackoverflow](): 右键stackoverflow搜索(通过Google搜索,墙内不能用)
+
+[AceJump](): 光标快速定位
+
+[Key Promoter](): 快捷键提示，每按一次都会提示，提示框很大，个人觉得不好用
