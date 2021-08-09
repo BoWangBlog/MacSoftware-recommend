@@ -66,6 +66,7 @@
 
 [macapp.so](https://www.macapp.so/)
 
+
 ### Chrome插件推荐(都是我在用的)
 
 [AdGuard 广告拦截器](): 应用商店获取，广告拦截；
@@ -121,6 +122,7 @@
 [集装箱](): 应用商店获取，一个插件，提供一揽子服务；
 
 [魂签到](): 应用商店获取，自动签到，支持b站呀，什么值得买呀等；
+
 
 ### Mac软件工具推荐(都是我在用的)
 
@@ -213,6 +215,8 @@
 [TinyCal](https://xclient.info/s/tinycal.html?a=dl&v=1.9.0&k=0&t=95ae51fb2540fe451971aed5fd7409dd305c600f): 一款状态栏日历显示软件，精致小巧
 
 [IINA](https://iina.io/): 一个精简的视频播放器，还不错
+
+[OnTime Pro](https://xclient.lanzoui.com/iUiJorgsppg): 桌面时钟工具，支持多种自定义显示方式，很方便好用
 
 ### jetBrains插件推荐(都是我在用的)
 
