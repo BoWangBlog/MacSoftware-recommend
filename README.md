@@ -218,6 +218,12 @@
 
 [OnTime Pro](https://xclient.lanzoui.com/iUiJorgsppg): 桌面时钟工具，支持多种自定义显示方式，很方便好用
 
+[HapiGo](https://hapigo.com/): 超实用的一个桌面工具，用启动器代替手动打开应用和文件。 支持搜索文件预览文件，截图翻译等诸多功能；
+
+[squoosh](https://squoosh.app/): 在线网址，但是可以安装到mac，图片压缩工具，压缩效果非常好；
+
+[picx](https://picx.xpoet.cn/#/upload): 在线网址，但是可以安装到mac，github图床工具，在github存储你的图片文件，非常方便！
+
 ### jetBrains插件推荐(都是我在用的)
 
 **以下插件都可直接在plugins-marketplace中进行下载**
@@ -255,3 +261,4 @@
 [AceJump](): 光标快速定位
 
 [Key Promoter](): 快捷键提示，每按一次都会提示，提示框很大，个人觉得不好用
+
