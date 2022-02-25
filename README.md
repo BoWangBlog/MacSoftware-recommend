@@ -224,6 +224,8 @@
 
 [picx](https://picx.xpoet.cn/#/upload): 在线网址，但是可以安装到mac，github图床工具，在github存储你的图片文件，非常方便！
 
+[ToDesk](https://www.macwk.com/soft/todesk): 支持远程控制，与teamviewer类似，更轻巧一些
+
 ### jetBrains插件推荐(都是我在用的)
 
 **以下插件都可直接在plugins-marketplace中进行下载**
