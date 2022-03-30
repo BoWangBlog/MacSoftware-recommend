@@ -181,6 +181,9 @@
 
 [copyClip 2](https://www.macwk.com/soft/copyclip): 鉴于paste要收费，所以推荐这款免费的，稍微可能没有paste那么好用，但是也还行；
 
+[HiddenBar](): 应用商店获取，免费，与Bartender功能类似，但是更简洁；
+
+[Xnip](): 应用商店获取，免费可用，截图工具，只是部分功能截图有水印不影响，比ishot更好用一些；
 
 ### jetBrains插件推荐(都是我在用的)
 
