@@ -4,12 +4,6 @@
 
 [macwk](https://www.macwk.com/)
 
-[macenjoy](https://www.macenjoy.co/)
-
-[小众软件](https://love.appinn.com/)
-
-[digit77](https://www.digit77.com/)
-
 [macappbox](http://www.macappbox.com/)
 
 
@@ -190,6 +184,18 @@
 [eul](https://github.com/gao-sun/eul/releases/latest/download/eul.app.zip):  Github搜索下载即可，与系统监控工具istat-menus很像，平替版；
 
 [pomodorome](): 应用商店获取，免费，番茄时钟工作法，定时设置休息与工作时间；
+
+[copyLess 2](): 应用商店获取，剪贴板留存，比copyClip更好用，免费版支持100条记录也基本够用了；
+
+[DropOver](): 应用商店获取，免费，按住鼠标晃一晃就可以临时保存啦，对于多文件夹移动非常方便；
+
+[HazeOver](): 应用商店获取，免费，窗口高亮工具，专注于你正在看到的窗口，会自动增加一层遮罩，非常好用；
+
+[rectangle](https://rectangleapp.com/): 可直接下载，分屏工具，非常灵活，也很好用；
+
+[text-scanner](https://www.macwk.com/soft/text-scanner): 截图自动解析为文字
+
+[macos小助手](https://www.macwk.com/soft/macos-assistant-macwk): 一个超好用的功能是可以将启动控制台里面的图标设置指定行指定列；
 
 ### jetBrains插件推荐(都是我在用的)
 
