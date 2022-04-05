@@ -185,6 +185,12 @@
 
 [Xnip](): 应用商店获取，免费可用，截图工具，只是部分功能截图有水印不影响，比ishot更好用一些；
 
+[MenuBarX](): 应用商店获取，免费，可以在菜单栏直接打开一个小框，里面可以当浏览器用，对于查资料十分方便，并且支持不同分辨率和位置的设置；
+
+[eul](https://github.com/gao-sun/eul/releases/latest/download/eul.app.zip):  Github搜索下载即可，与系统监控工具istat-menus很像，平替版；
+
+[pomodorome](): 应用商店获取，免费，番茄时钟工作法，定时设置休息与工作时间；
+
 ### jetBrains插件推荐(都是我在用的)
 
 **以下插件都可直接在plugins-marketplace中进行下载**
