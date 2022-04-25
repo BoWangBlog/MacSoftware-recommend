@@ -197,6 +197,8 @@
 
 [macos小助手](https://www.macwk.com/soft/macos-assistant-macwk): 一个超好用的功能是可以将启动控制台里面的图标设置指定行指定列；
 
+[Pasty](): 应用商店获取，paste平替版，免费版本最多存储一周的历史，但是足够用了，买断也只要98；
+
 ### jetBrains插件推荐(都是我在用的)
 
 **以下插件都可直接在plugins-marketplace中进行下载**
