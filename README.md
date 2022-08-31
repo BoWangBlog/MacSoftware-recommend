@@ -199,6 +199,8 @@
 
 [Pasty](): 应用商店获取，paste平替版，免费版本最多存储一周的历史，但是足够用了，买断也只要98；
 
+[easy new file](https://www.macwk.com/soft/easy-new-file): 可直接下载，与NewFileMenu有类似功能，免费好用
+
 ### jetBrains插件推荐(都是我在用的)
 
 **以下插件都可直接在plugins-marketplace中进行下载**
