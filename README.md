@@ -239,3 +239,7 @@
 
 [Key Promoter](): 快捷键提示，每按一次都会提示，提示框很大，个人觉得不好用
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BoWangBlog/MacSoftware-recommend&type=Date)](https://star-history.com/#BoWangBlog/MacSoftware-recommend&Date)
