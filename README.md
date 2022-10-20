@@ -6,6 +6,8 @@
 
 [macappbox](http://www.macappbox.com/)
 
+[awesome-mac](https://wangchujiang.com/awesome-mac/)
+
 
 ### Chrome插件推荐(都是我在用的)
 
