@@ -217,6 +217,12 @@
 
 [Codota](): AI代码生成，自动联想，支持javaScript和java；
 
+[Codeium](): AI代码生成，感觉和Github的那个差不多，稍微没那么智能，但也不错；
+
+[GitHub Actions Manager](): Github Actions管理工具；
+
+[Markdown Editor](): markdown工具，比默认的功能更多点，有点像富文本一样；
+
 [Atom Material Icons](): 文件图标、系统图标会更好看；
 
 [Translation](): 翻译插件，右键的时候可以直接翻译；
