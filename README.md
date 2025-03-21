@@ -1,5 +1,9 @@
 ### 软件下载网站推荐
 
+[appstorrent](https://appstorrent.ru/)
+
+[macwk](https://macwk.cn/)
+
 [xclient](https://xclient.info/)
 
 [赤狐](https://www.foxmac.com/)
